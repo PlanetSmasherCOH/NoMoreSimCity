@@ -1,0 +1,36 @@
+Archive name="14f7044ee9a94fa5afab091d7282062a" blocksize="262144"
+TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
+	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\mortar_counter_barrage_weapon_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\mortar_fire_flares_ability_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\base_building\british_building_1_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\team_weapons\3inch_mortar_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\team_weapons\3inch_mortar\3inch_mortar.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_counter_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_counter_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_victor_target_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_team_smoke_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_victor_target_mortar_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_flare_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_smoke_mp.rgd
+TOCEnd
+TOCStart name="locale" alias="locale" path="" relativeroot="locale"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\locale\english\english.ucs
+TOCEnd
+TOCStart name="info" alias="info" path="" relativeroot="info"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(lua)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\info\14f7044ee9a94fa5afab091d7282062a.info
+TOCEnd

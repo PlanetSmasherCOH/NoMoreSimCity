@@ -1,0 +1,48 @@
+<instance override_type="merge" description="Anvil Building 1" template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\spawner_ext">
+			<bool name="animated_spawning" value="False" />
+			<float name="animated_spawning_seconds" value="0" />
+			<bool name="must_be_in_supply" value="True" />
+			<float name="reinforce_radius" value="20" />
+			<list name="spawn_items">
+				<group name="spawn_item">
+					<int name="ui_position" value="11" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\british\soldiers\sapper_squad\sapper_squad_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="12" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\british\soldiers\sniper_squad\sniper_british_squad_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="13" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\british\team_weapons\at_gun_6_pounder\brit_6_pounder_at_gun_squad_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="31" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\british\vehicles\aec_armoured_car\aec_armoured_car_squad_mp" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="14" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\british\team_weapons\3inch_mortar\3inch_mortar" mod="14f7044ee9a94fa5afab091d7282062a" />
+					<bool name="spawn_at_map_entry_point" value="True" />
+				</group>
+			</list>
+			<list name="bonus_xp_from_hold_list">
+			</list>
+			<list name="reinforce_requirements">
+			</list>
+			<bool name="spawn_to_hold_try_first" value="False" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="18776" />
+</instance>
