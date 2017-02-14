@@ -10,13 +10,13 @@
 					<int name="ui_position" value="11" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\british\soldiers\sapper_squad\sapper_squad_mp" />
-					<bool name="spawn_at_map_entry_point" value="True" />
+					<bool name="spawn_at_map_entry_point" value="False" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="12" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\british\soldiers\sniper_squad\sniper_british_squad_mp" />
-					<bool name="spawn_at_map_entry_point" value="True" />
+					<bool name="spawn_at_map_entry_point" value="False" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="13" />
@@ -33,8 +33,8 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="14" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\british\team_weapons\3inch_mortar\3inch_mortar" mod="14f7044ee9a94fa5afab091d7282062a" />
-					<bool name="spawn_at_map_entry_point" value="True" />
+					<instance_reference name="squad" value="sbps\3inch" mod="14f7044ee9a94fa5afab091d7282062a" />
+					<bool name="spawn_at_map_entry_point" value="False" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">
@@ -42,6 +42,17 @@
 			<list name="reinforce_requirements">
 			</list>
 			<bool name="spawn_to_hold_try_first" value="False" />
+		</template_reference>
+		<template_reference name="exts" value="ebpextensions\ability_ext">
+			<list name="abilities">
+				<instance_reference name="ability" value="abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_coordinated_fire_base_mp" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_direct_barrage_base_mp" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_smoke_screen_base_mp" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\artillery\artillery_barrage_ability\qf_25lb_overwatch_base_mp" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\passive_bofors_emplacement_mp" />
+				<instance_reference name="ability" value="abilities\british\always_on_ability\brit_base_braced_static_mp" />
+				<instance_reference name="ability" value="abilities\british\timed_ability\howitzer_counter_barrage_commander_mp" />
+			</list>
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="18776" />

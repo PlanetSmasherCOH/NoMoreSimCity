@@ -1,6 +1,6 @@
 hidden = false
-name = "No More Sim City"
-description = ""
+name = "Artillery Pit"
+description = "Just a small mod that shows how I would like the Mortar Emplacement to work.\r\n\r\nOrdnance ML 3-inch Mortar Team: Buildable in British T1 for 240MP. Slower rate to fire than the German GrW 34, but more accurate. White Phosphorous Barrage at Vet 1. Counter Barrage with Advanced Emplacement Regiment.\r\n\r\nArtillery Pit: Replaces the British Mortar Emplacement. An empty structure that can be built by Royal Engineers for 100MP. All mobile mortars and artillery pieces can be garrisoned and receive a 15% bonus to the range of their barrage abilities. When empty, the structure can be garrisoned by the enemy.\r\n\r\nKnown Issue: Artillery guns and heavy mortars can only fire to the front side of the emplacement. I don't know if this can be changed. If you have any information about this, please contact me."
 dependencies = 
 {
 }

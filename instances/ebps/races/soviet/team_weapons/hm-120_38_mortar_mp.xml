@@ -1,0 +1,8 @@
+<instance override_type="merge" description="" template="ebps">
+	<list name="extensions">
+		<template_reference name="exts" value="ebpextensions\holdable_ext">
+			<enum name="holdable" value="hold_mortar" />
+		</template_reference>
+	</list>
+	<uniqueid name="pbgid" value="3186" />
+</instance>

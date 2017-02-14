@@ -3,25 +3,86 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\3inch_barrage_he.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\3inch_barrage_smoke.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\3inch_barrage_wp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\3inch_counter_barrage_he.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\3inch_counter_barrage_toggle.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\3inch_victor_target_he.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_heat_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_vet3_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_victor_target_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_white_phosphorous_barrage_ability_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\artillery\artillery_barrage_ability\land_mattress_barrage.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\artillery\artillery_barrage_ability\land_mattress_barrage_smoke.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\artillery\artillery_barrage_ability\land_mattress_barrage_victor_target_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\passive_ability\counter_battery.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_incendiary_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_mortar_victortarget_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_smoke_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\commander_ability\assault_officer_victor_target.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\german_mortar_hold_fire_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\mortar_counter_barrage_weapon_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\mortar_fire_flares_ability_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\smoke_120mm_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\smoke_sync_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_120mm_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_120mm_victortarget_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_victortarget_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_barrage_wg_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_barrage_wg_vet_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_hollow_charge_barrage_wg_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_hollow_charge_barrage_wg_vet_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\3inch.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\3inch_he.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\3inch_smoke.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\3inch_wp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\team_weapons\field_artillery\m1_75mm_pack_howitzer_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\base_building\british_building_1_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement.rgd
-	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\team_weapons\3inch_mortar_mp.rgd
-	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\team_weapons\3inch_mortar\3inch_mortar.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement_commander_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\team_weapons\land_mattress_launcher\brit_land_mattress_launcher_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\team_weapons\hm-120_38_mortar_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\team_weapons\le_ig_18_inf_support_gun\le_ig_18_inf_support_gun_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\sbps\3inch.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_barrage_he.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_barrage_smoke.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_barrage_wp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_default_he.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_victor_target_he.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_heat_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_victor_target_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_vet3_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_white_phosphorous_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_counter_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_smoke_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_barrage_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_counter_barrage_mp.rgd
-	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_barrage_mp.rgd
-	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_counter_barrage_mp.rgd
-	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_mp.rgd
-	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_victor_target_mp.rgd
-	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_team_smoke_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\mortar\grw34_81mm_victor_target_mortar_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\flame_throwers\mortar\grw34_81mm_incendiary_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\light_artillery\land_mattress_phosphorus_rocket_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_victortarget_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_flares_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_smoke_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_barrage_victortarget_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_flare_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_smoke_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\explosive_weapons\heavy_artillery\le_ig_18_howitzer_75mm_hollow_charge_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_barrage_mp.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_mp.rgd
 TOCEnd
 TOCStart name="locale" alias="locale" path="" relativeroot="locale"
 	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
@@ -33,4 +94,19 @@ TOCStart name="info" alias="info" path="" relativeroot="info"
 		Override wildcard=".*\.(lua)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct="buffer_compress"
 	FileSettingsEnd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\info\14f7044ee9a94fa5afab091d7282062a.info
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\info\NoMoreSimCity.tga
+TOCEnd
+TOCStart name="data" alias="data" path="" relativeroot="data"
+	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(rgt|ttf)$" minsize="-1" maxsize="-1" vt="none" ct="store"
+		Override wildcard=".*\.(abp)$" minsize="-1" maxsize="-1" vt="none" ct="buffer_compress"
+		Override wildcard=".*\.(dds|mua|muax|rpb|sua|tga)$" minsize="-1" maxsize="-1" vt="none" ct=""
+		Override wildcard=".*\.(gfx)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct=""
+		Override wildcard=".*\.(ai|events|info|lua|options|scar|scenref|squadai)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
+		Override wildcard=".*\.(scenariomarker|sgb|ter|sme|exclude|path)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct=""
+		Override wildcard=".*\.(smf)$" minsize="-1" maxsize="-1" vt="none" ct="store"
+		Override wildcard=".*\.(bsc)$" minsize="-1" maxsize="-1" vt="none" ct="buffer_compress"
+	FileSettingsEnd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\data\ui\Assets\Textures\14f7044ee9a94fa5afab091d7282062a_I1.dds
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\data\ui\Bin\14f7044ee9a94fa5afab091d7282062a.gfx
 TOCEnd

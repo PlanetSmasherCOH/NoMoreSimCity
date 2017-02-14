@@ -37,13 +37,35 @@
 			<Children>
 				<d2p1:anyType i:type="BurnModInfo">
 					<Dependencies />
-					<Description>Currently included:
+					<Description>Just a small mod that shows how I would like the Mortar Emplacement to work.
 
-- British 3-inch mortar squad in T2 for 240MP. Has the exact same stats and abilities as the Soviet PM-41 and uses the model for the USF M1 81mm.
-- Mortar pit now costs 120MP and comes empty. Can be garrisoned by one or two mortars and provides trench cover. If it is destroyed, everything inside should unload safely.
-- Ostheer GrW 34 and mortar halftrack don't ignore trench cover any more. (This was likely a bug.)</Description>
+Ordnance ML 3-inch Mortar Team: Buildable in British T1 for 240MP. Slower rate to fire than the German GrW 34, but more accurate. White Phosphorous Barrage at Vet 1. Counter Barrage with Advanced Emplacement Regiment.
+
+Artillery Pit: Replaces the British Mortar Emplacement. An empty structure that can be built by Royal Engineers for 100MP. All mobile mortars and artillery pieces can be garrisoned and receive a 15% bonus to the range of their barrage abilities. When empty, the structure can be garrisoned by the enemy.
+
+Known Issue: Artillery guns and heavy mortars can only fire to the front side of the emplacement. I don't know if this can be changed. If you have any information about this, please contact me.</Description>
 					<Hidden>false</Hidden>
-					<Name>No More Sim City</Name>
+					<Name>Artillery Pit</Name>
+				</d2p1:anyType>
+				<d2p1:anyType i:type="BurnFile">
+					<BurnSettings i:nil="true" />
+					<RelativeName>NoMoreSimCity.tga</RelativeName>
+				</d2p1:anyType>
+			</Children>
+			<IsExpanded>true</IsExpanded>
+		</d2p1:anyType>
+		<d2p1:anyType i:type="TableOfContents">
+			<Alias>Data</Alias>
+			<Children>
+				<d2p1:anyType i:type="Folder">
+					<Children>
+						<d2p1:anyType i:type="BurnIcons">
+							<PackSize>1024</PackSize>
+							<RelativeName>data\ui</RelativeName>
+						</d2p1:anyType>
+					</Children>
+					<IsExpanded>true</IsExpanded>
+					<Name>ui</Name>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>

@@ -9,7 +9,7 @@
 			</list>
 			<list name="start_target_actions">
 				<template_reference name="action" value="action\sequence_action">
-					<uniqueid name="id" value="1073741902" />
+					<uniqueid name="id" value="1073742101" />
 					<list name="action_list_sequences">
 						<list name="actions">
 							<template_reference name="action" value="action\artillery_attack">
@@ -22,7 +22,7 @@
 								<float name="num_salvo" value="1" />
 								<float name="use_hardpoint" value="4" />
 								<bool name="face_to_target" value="True" />
-								<uniqueid name="id" value="1073741903" />
+								<uniqueid name="id" value="1073742102" />
 								<bool name="target_override_direction_times_max_range" value="False" />
 							</template_reference>
 						</list>
@@ -43,7 +43,7 @@
 										<int name="number_of_entities_to_spawn" value="1" />
 										<float name="entity_scatter" value="0" />
 										<float name="entity_height_scatter" value="0" />
-										<uniqueid name="id" value="1073741904" />
+										<uniqueid name="id" value="1073742103" />
 										<enum name="paradrop_drift_type" value="random_dir" />
 										<template_reference name="scatter_type_option" value="options\none">
 										</template_reference>
@@ -63,7 +63,7 @@
 										</template_reference>
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073741905" />
+								<uniqueid name="id" value="1073742104" />
 								<bool name="can_prevent_refund" value="True" />
 							</template_reference>
 						</list>
@@ -194,7 +194,7 @@
 		<string name="ui_targetable_on_key" value="" />
 		<string name="ui_targetable_off_key" value="" />
 		<enum name="ui_targetable_receiver" value="local" />
-		<enum name="ui_combine_type" value="intersection" />
+		<enum name="ui_combine_type" value="union" />
 		<enum_table name="ui_modal_highlight">
 			<bool name="world_sector" value="False" />
 			<bool name="map_sector" value="False" />

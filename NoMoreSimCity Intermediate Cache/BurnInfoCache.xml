@@ -6,88 +6,340 @@
 			<FileHash>0fc0c80c40da01ec3d1e8551fe742287</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\3inch_barrage_he.xml</FileName>
+			<FileHash>d885e88b6c05f388e4598d001d90bfef</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\3inch_barrage_smoke.xml</FileName>
+			<FileHash>eee35aa1ab2e061edba3fe9fa11021c2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\3inch_barrage_wp.xml</FileName>
+			<FileHash>ff4ec3dccbdffa9c04dbbd504b7ad571</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\3inch_counter_barrage_he.xml</FileName>
+			<FileHash>a803cfca34338f63c0388d7f09418985</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\3inch_counter_barrage_toggle.xml</FileName>
+			<FileHash>6341a502682598a69c7b4042c28c9eae</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\3inch_victor_target_he.xml</FileName>
+			<FileHash>f31165492011a501da4645cf09c88724</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_heat_mp.xml</FileName>
+			<FileHash>b61a12823cc1f8e59b7808e8fad62c30</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_mp.xml</FileName>
+			<FileHash>929d2dd200b191cd25c441f9150b347b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_vet3_mp.xml</FileName>
+			<FileHash>05125b6c19eae42a29b671c80a46cb3e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_75mm_barrage_ability_victor_target_mp.xml</FileName>
+			<FileHash>574cc7162b2c8602c5058ec9dd4a53a4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\aef\modal_ability\artillery\artillery_barrage_ability\pack_howitzer_white_phosphorous_barrage_ability_mp.xml</FileName>
+			<FileHash>ef5cdf2dfe7bb3f38ddc226d93b6e375</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_mortar_barrage_mp.xml</FileName>
+			<FileHash>fcac5d6c6858d298f433bb9cdea0e900</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\aef\modal_ability\artillery\mortar_barrage_ability\m1_81mm_mortar_team_smoke_barrage_mp.xml</FileName>
+			<FileHash>2e980f4604ab217638c4d1face9ee4eb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\land_mattress_barrage.xml</FileName>
+			<FileHash>79ab283012952e8db246647bbc85c3e8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\land_mattress_barrage_smoke.xml</FileName>
+			<FileHash>4c6e7248c8882949851338f1374deb36</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\british\modal_ability\artillery\artillery_barrage_ability\land_mattress_barrage_victor_target_mp.xml</FileName>
+			<FileHash>3df460bc62ca767b601704089a56f119</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\british\passive_ability\counter_battery.xml</FileName>
+			<FileHash>6c1f4b8b1a9d424e516d4baa51aee895</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_incendiary_barrage_mp.xml</FileName>
+			<FileHash>cde21363505de4bfc4b8b38f3d5acd74</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_mortar_barrage_mp.xml</FileName>
+			<FileHash>f8c1e45431f8afa7e2037ce05e8898b4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_mortar_victortarget_barrage_mp.xml</FileName>
+			<FileHash>7b1929afb2fbe69b1048e80c984b64a7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_smoke_barrage_mp.xml</FileName>
+			<FileHash>1fd56deae28481fba5ea496a7a359f4d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\german\modal_ability\commander_ability\assault_officer_victor_target.xml</FileName>
+			<FileHash>20633be722a698a204a8cfb67dffaed4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\german\toggle_ability\german_mortar_hold_fire_mp.xml</FileName>
+			<FileHash>48216e424b740e62cc20b1193bc14376</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\german\toggle_ability\mortar_counter_barrage_weapon_mp.xml</FileName>
-			<FileHash>ee811becfb610ba028a87359d92a9830</FileHash>
+			<FileHash>e538f56115350182cf27bb7dffa78597</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\soviet\modal_ability\mortar_fire_flares_ability_mp.xml</FileName>
-			<FileHash>9dc1d77a312292c0f18994e6d757e140</FileHash>
+			<FileHash>3198fd114aa53fb87dc394e35c177ce2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\smoke_120mm_mortar_barrage_mp.xml</FileName>
+			<FileHash>6eaa22895388b4d5f79f35029a85fd32</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\smoke_sync_mortar_barrage_mp.xml</FileName>
+			<FileHash>a4cda10ecf461f036d7c2915d1ebd85c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_120mm_mp.xml</FileName>
+			<FileHash>8164cbf4d2b82103444e0b50895a1f55</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_120mm_victortarget_mp.xml</FileName>
+			<FileHash>4150b5e33f39a12b0cd117ac258dc088</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_mp.xml</FileName>
+			<FileHash>97cc63fbaca50d6bdcbf46f7de3a4eb9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\soviet\modal_ability\artillery\mortar_barrage_ability\sync_mortar_barrage_victortarget_mp.xml</FileName>
+			<FileHash>e60c5313dd6819869cb5f24e65e7f811</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_barrage_wg_mp.xml</FileName>
+			<FileHash>49f66887f11891a6820580a4e33a9987</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_barrage_wg_vet_mp.xml</FileName>
+			<FileHash>67407d1f6ef87d18ee3f38b545c8b0a7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_hollow_charge_barrage_wg_mp.xml</FileName>
+			<FileHash>03f11e948cc9416b0aab4b07264bef03</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\abilities\west_german\modal_ability\artillery\mortar_barrage_ability\le_ig_18_hollow_charge_barrage_wg_vet_mp.xml</FileName>
+			<FileHash>2cc5c4064078b15b61b063abcde1ba84</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\3inch.xml</FileName>
+			<FileHash>c90d162c044603a2ac4458cef7f170de</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\projectile\3inch_he.xml</FileName>
+			<FileHash>b11d2fb50c30d62b9a91e39f11fc65a1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\projectile\3inch_smoke.xml</FileName>
+			<FileHash>ae5f84ae26a8ad6cf35a2be7de878aaa</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\projectile\3inch_wp.xml</FileName>
+			<FileHash>ba5f81102ae9fdd011cf7b46cb7b5e6f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\aef\team_weapons\field_artillery\m1_75mm_pack_howitzer_mp.xml</FileName>
+			<FileHash>feebe0351ca920560d53793343f03018</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\british\buildings\base_building\british_building_1_mp.xml</FileName>
-			<FileHash>9cd9b3ac1bc8ffded270b74090820490</FileHash>
+			<FileHash>a25f2d6b58bb8148361f5ba1290ea1c5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement.xml</FileName>
-			<FileHash>80bf38d23553e1744bd4f77aca1f21b3</FileHash>
+			<FileHash>d6116b852c4f1e542149717d205bfb18</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\british\team_weapons\3inch_mortar_mp.xml</FileName>
-			<FileHash>6893355f93d3ea7d577f9b773d8735be</FileHash>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\british\buildings\emplacements\brit_3_inch_mortar_emplacement_commander_mp.xml</FileName>
+			<FileHash>9ce201a103f59214a529fafb86cde09a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\sbps\races\british\team_weapons\3inch_mortar\3inch_mortar.xml</FileName>
-			<FileHash>8bb1d0fc9f2c50a0f8bd559007207e57</FileHash>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\british\team_weapons\land_mattress_launcher\brit_land_mattress_launcher_mp.xml</FileName>
+			<FileHash>add5e731002d2ff51ae45335df0e046e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\soviet\team_weapons\hm-120_38_mortar_mp.xml</FileName>
+			<FileHash>1c2ed4d9061aa107a8708baa30863d7c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\west_german\team_weapons\le_ig_18_inf_support_gun\le_ig_18_inf_support_gun_mp.xml</FileName>
+			<FileHash>b2de8db72f1f692e6d834c7410cc27ce</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\sbps\3inch.xml</FileName>
+			<FileHash>a1b1fdc5be870cb3a9a6a1568f6882e7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\3inch_barrage_he.xml</FileName>
+			<FileHash>dc053ba4b126e224c1d7c42c66e2e138</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\3inch_barrage_smoke.xml</FileName>
+			<FileHash>3c82efead81f09a3db8397eac58bbb13</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\3inch_barrage_wp.xml</FileName>
+			<FileHash>dd7f42046e34798dbeec5ec5d27e2990</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\3inch_default_he.xml</FileName>
+			<FileHash>0eecf5fb6e74b3c3c926acf0f6fad46c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\3inch_victor_target_he.xml</FileName>
+			<FileHash>07da28f3bb8fecdbd8c1b1d7ca2de2ce</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_heat_mp.xml</FileName>
+			<FileHash>36cf976cac48a846ac6a3a68ee75e771</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_mp.xml</FileName>
+			<FileHash>04b247bd7751d7b0c33afff1bf9b3f85</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_victor_target_mp.xml</FileName>
+			<FileHash>7cf04eab9329fa681e2844c16b15cfe2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_vet3_mp.xml</FileName>
+			<FileHash>d16dd7e0b5e66df903476c57f3d42c4d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_white_phosphorous_mp.xml</FileName>
+			<FileHash>bf4aeeb73a185849b66c6436dd6d4435</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_mp.xml</FileName>
+			<FileHash>909bd398ad94f5bb4821604055200230</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_counter_barrage_mp.xml</FileName>
+			<FileHash>91ccdfd3183d9bab6920419c8de059c4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_team_smoke_mp.xml</FileName>
+			<FileHash>18c79cec6ca3a2ace9cf1c44110f918c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_barrage_mp.xml</FileName>
-			<FileHash>7b0891a89971a857a86abb83eb34c381</FileHash>
+			<FileHash>00aaba9441b454a4af31e8b6fdfe4cb6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_counter_barrage_mp.xml</FileName>
-			<FileHash>34b3de5f93f2cc73b52869fb10ac7de0</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_barrage_mp.xml</FileName>
-			<FileHash>51dd383c75874a462961126ba70cea17</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_counter_barrage_mp.xml</FileName>
-			<FileHash>a4c1513e394d1abb8ff900fc4c024f61</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_mp.xml</FileName>
-			<FileHash>713f35568e9f399e1300f992c56b9eb4</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_halftrack_victor_target_mp.xml</FileName>
-			<FileHash>ee0196878cc8fdb0bc5b1e08dc6231e7</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_mp.xml</FileName>
-			<FileHash>baf42388a2bca24251b0b692861898bb</FileHash>
+			<FileHash>afc9023367f83a12500b994a3101155a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_team_smoke_mp.xml</FileName>
-			<FileHash>c9b152b6e6c488cc06b551536112dbbc</FileHash>
+			<FileHash>0c6a650555719f8d09ac328bc3fa536b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_victor_target_mortar_mp.xml</FileName>
-			<FileHash>4e0b2ad64a10dfeb6b2aeea97172ee18</FileHash>
+			<FileHash>d46a6432f74914455bf58c0f3e47d314</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\axis\flame_throwers\mortar\grw34_81mm_incendiary_mortar_barrage_mp.xml</FileName>
+			<FileHash>e4819371ea2d50b1f4cdc18c210dd5da</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp.xml</FileName>
+			<FileHash>99c73b4d92c4d3a90d94f13f667ace0e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\british\explosive_weapons\light_artillery\land_mattress_phosphorus_rocket_mp.xml</FileName>
+			<FileHash>f99403414da145d281581ffc428ba435</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_mp.xml</FileName>
+			<FileHash>c25b8fd59806c78c194f39437722673d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_victortarget_mp.xml</FileName>
+			<FileHash>2e09ae0a70b61a48d37b5482820883ba</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_flares_mp.xml</FileName>
+			<FileHash>1c036568331043eaa84de5b4efff6b9f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_mp.xml</FileName>
+			<FileHash>29f96db900dd21da7125beced930bee6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_smoke_mp.xml</FileName>
+			<FileHash>4434c94c89b4555a80fcb5340b343f4a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_barrage_mp.xml</FileName>
-			<FileHash>facd770f4200b8e3daa033643a0a031a</FileHash>
+			<FileHash>cdecdeb92fc9ff656c5076602975608c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_barrage_victortarget_mp.xml</FileName>
+			<FileHash>049be8a698e7106e49b9b890d7c3547a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_flare_mp.xml</FileName>
-			<FileHash>aa76ce4c83c2800ecae4bb80b9575c32</FileHash>
+			<FileHash>158692ded9471929c526e8e80fb8021f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_mp.xml</FileName>
-			<FileHash>0be6af40601f6518c1819052a3cef936</FileHash>
+			<FileHash>9ad2f9309df2b8e60e85260d69140f91</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_smoke_mp.xml</FileName>
-			<FileHash>eb551b35a5d5b86f89e3897fcdf700c5</FileHash>
+			<FileHash>c4cd065efff6868ac33fe8da897fdea2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\west_german\explosive_weapons\heavy_artillery\le_ig_18_howitzer_75mm_hollow_charge_barrage_mp.xml</FileName>
+			<FileHash>c5288e24ee74f2e116f5ed9b9d84f5b2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_barrage_mp.xml</FileName>
+			<FileHash>b498b2448b7069efbaf0e4b44264c877</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_mp.xml</FileName>
+			<FileHash>2e59a4ead71650048a71b4c3b86dbd7b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\locale\english\english.ucs</FileName>
-			<FileHash>6656354e42e725a6dbc809238c71ac3d</FileHash>
+			<FileHash>f30c2552536deed7fcdb4ae016511e53</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\info\14f7044ee9a94fa5afab091d7282062a.info</FileName>
-			<FileHash>a51ac917cb930db020f3e357b1d03a16</FileHash>
+			<FileHash>5b9e679e32022ebc577045c30becd4ef</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity.tga</FileName>
+			<FileHash>a04505aed4dc563cf4b86a5719144c06</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\data\ui\british_mortar_squad_icon.png</FileName>
+			<FileHash>53a51ef8bf0033d6d71052edd827ea6b</FileHash>
 		</BurnInfo>
 	</BurnInfo>
 	<BurnInfoExtendedInfo />
