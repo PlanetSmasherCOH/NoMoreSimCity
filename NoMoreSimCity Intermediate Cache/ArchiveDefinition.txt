@@ -50,6 +50,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\team_weapons\hm-120_38_mortar_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\team_weapons\le_ig_18_inf_support_gun\le_ig_18_inf_support_gun_mp.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\sbps\3inch.rgd
+	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\turn_plan\hm38.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_barrage_he.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_barrage_smoke.rgd
 	E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\attrib\attrib\weapon\3inch_barrage_wp.rgd

@@ -183,7 +183,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\soviet\team_weapons\hm-120_38_mortar_mp.xml</FileName>
-			<FileHash>1c2ed4d9061aa107a8708baa30863d7c</FileHash>
+			<FileHash>b1aad5d6a19672ea0dd9a603f81a0f59</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\ebps\races\west_german\team_weapons\le_ig_18_inf_support_gun\le_ig_18_inf_support_gun_mp.xml</FileName>
@@ -192,6 +192,10 @@
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\sbps\3inch.xml</FileName>
 			<FileHash>a1b1fdc5be870cb3a9a6a1568f6882e7</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\turn_plan\hm38.xml</FileName>
+			<FileHash>f8260c26ef9a05ca76365eeafb209ff4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\instances\weapon\3inch_barrage_he.xml</FileName>
@@ -331,7 +335,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity Intermediate Cache\Intermediate Files\info\14f7044ee9a94fa5afab091d7282062a.info</FileName>
-			<FileHash>8a03c4d9fc7091b8be3992f1af50adef</FileHash>
+			<FileHash>92f378c0d2a6458328a7e77299d1692a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>E:\Spiele\CoH2-Mods\NoMoreSimCity\NoMoreSimCity.tga</FileName>
